@@ -1,7 +1,7 @@
 baseURL = "https://ariawxr.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Wecsite of WXR"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"

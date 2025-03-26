@@ -1,9 +1,9 @@
 
-title = "I'm WXR"
-author = "Jane Doe"
+title = "Website of WXR"
+author = "Xingran Wang"
 #copyright = "2020-2021"
 description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/test.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
