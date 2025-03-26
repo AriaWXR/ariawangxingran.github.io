@@ -38,7 +38,7 @@
   parent = "accomplishments"
 
  [[main]]
-  name = "Archive"
+  name = "Posts Archive"
   weight = 500
   identifier = "posts"
   url = "/post/"

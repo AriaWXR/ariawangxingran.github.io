@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Xingran Wang"
 title = "test post"
 date = "2025-03-26"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."

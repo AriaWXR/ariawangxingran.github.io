@@ -6,4 +6,6 @@ description: Contact Page
 contact: false
 ---
 
-[Email m](mailto:xwang082@e.ntu.edu.sg)
+Email： [xwang082@e.ntu.edu.sg](mailto:xwang082@e.ntu.edu.sg)
+
+Phone: +65 87909587

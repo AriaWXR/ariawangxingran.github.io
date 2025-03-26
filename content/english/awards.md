@@ -1,9 +1,9 @@
 +++
 title = "Awards"
-description = "Hugo Awards, an annual literary award for the best science fiction or fantasy works"
-date = "2022-04-10"
+description = " "
+date = "2023-04-10"
 aliases = ["awards"]
-author = "Hugo Authors"
+author = "Xingran Wang"
 +++
 
 Hugo Award - from Wikipedia: [Hugo Award](https://en.wikipedia.org/wiki/Hugo_Award)
@@ -15,3 +15,4 @@ The Hugo Award is an annual literary award for the best science fiction or fanta
 - Best Novelette 1955 Stories of between 7,500 and 17,500 words
 - Best Short Story 1955 Stories of less than 7,500 words
 - Best Series 2017 Series of works
+[imsf](/images/landscape.jpg)
