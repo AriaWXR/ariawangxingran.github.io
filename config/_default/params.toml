@@ -1,9 +1,9 @@
 
-title = "Website of WXR"
+title = " "
 author = "Xingran Wang"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/test.png"
+description = "Xingran Wang's Github Page"
+profilePicture = "images/profile1.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -59,22 +59,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/aria-xingranwang/"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/AriaWXR/ariawxr.github.io"
 
-[[socialIcons]]
-icon = "fa-brands fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[socialIcons]]
+#icon = "fa-brands fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:xwang082@e.ntu.edu.sg"
 
 [mermaid]
 # enable = true
