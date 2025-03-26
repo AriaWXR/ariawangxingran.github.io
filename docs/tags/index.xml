@@ -6,33 +6,11 @@
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ariawxr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Css</title>
-      <link>https://ariawxr.github.io/tags/css/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ariawxr.github.io/tags/css/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://ariawxr.github.io/tags/html/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ariawxr.github.io/tags/html/</guid>
-      
-        <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ariawxr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
       <link>https://ariawxr.github.io/tags/index/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ariawxr.github.io/tags/index/</guid>
       
@@ -41,11 +19,33 @@
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>https://ariawxr.github.io/tags/markdown/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Numpy</title>
+      <link>https://ariawxr.github.io/tags/numpy/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ariawxr.github.io/tags/markdown/</guid>
+      <guid>https://ariawxr.github.io/tags/numpy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ariawxr.github.io/tags/python/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariawxr.github.io/tags/python/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tweepy</title>
+      <link>https://ariawxr.github.io/tags/tweepy/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariawxr.github.io/tags/tweepy/</guid>
       
         <description></description>
       
@@ -90,6 +90,39 @@
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ariawxr.github.io/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://ariawxr.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariawxr.github.io/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://ariawxr.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariawxr.github.io/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://ariawxr.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariawxr.github.io/tags/markdown/</guid>
       
         <description></description>
       
