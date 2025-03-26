@@ -1,26 +1,22 @@
-  #[[main]]
-  #name = "Home"
-  #identifier = "home"
-  #weight = 100
-  #url = "/"
-
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
-
+  
   [[main]]
   name = "About"
   weight = 100
   identifier = "about"
   url = "/about/"
+  
+  [[main]]
+  name = "Posts"
+  identifier = "home"
+  weight = 200
+  url = "/"
+
+  [[main]]
+  name = "Projects"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
 
   [[main]]
   name = "Accomplishments"
@@ -41,9 +37,15 @@
   url = "/certifications/"
   parent = "accomplishments"
 
+ [[main]]
+  name = "Archive"
+  weight = 500
+  identifier = "posts"
+  url = "/post/"
+
   [[main]]
   name = "Contact"
-  weight = 500
+  weight = 600
   identifier = "contact"
   url = "/contact/"
 
